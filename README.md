@@ -24,3 +24,7 @@ PostgreSQL (Neon), SQL (window functions, CTEs, regression functions), the Auton
 - `Autonmis Airbnb.pdf`: the case study write-up
 - `Airbnb dashboard.pdf`: the dashboard
 - two images
+
+---
+
+Part of my **internship at Autonmis** (Dec 2024 – May 2025). [See all my Autonmis repos](https://github.com/manasmehrotra13?tab=repositories&q=Autonmis&sort=name) · [Back to my profile](https://github.com/manasmehrotra13)
